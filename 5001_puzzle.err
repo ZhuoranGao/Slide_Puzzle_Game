@@ -1,0 +1,26 @@
+2021-12-06 08:23:06,516 ERROR __main__ int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2021-12-06 08:30:10,083 ERROR __main__ int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2021-12-06 08:36:47,695 ERROR __main__ int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2021-12-06 08:38:01,465 ERROR __main__ int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2021-12-06 08:38:40,100 ERROR __main__ int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2021-12-06 08:38:46,121 ERROR __main__ [Errno 2] No such file or directory: 'mari.puz'
+2021-12-06 08:40:29,438 ERROR __main__ [Errno 2] No such file or directory: '1.puz'
+2021-12-06 08:41:47,523 ERROR __main__ [Errno 2] No such file or directory: '1.puz'
+2021-12-06 08:48:54,239 ERROR __main__ Did not have the step data
+2021-12-06 08:50:18,176 ERROR __main__ Do not have the file
+2021-12-06 08:52:37,168 ERROR __main__ Do not have the file
+2021-12-06 08:53:39,541 ERROR __main__ Do not have this puzzle
+2021-12-06 09:02:42,815 ERROR __main__ Do not have this puzzle
+2021-12-06 09:25:05,663 ERROR draw_square Did not have the answer_name
+2021-12-06 09:25:11,290 ERROR draw_square Did not have the answer_step
+2021-12-06 09:30:14,230 ERROR draw_square Did not have the answer_step
+2021-12-06 09:31:26,747 ERROR __main__ [Errno 2] No such file or directory: '22.txt'
+2021-12-06 09:37:05,267 ERROR draw_square Did not have the answer_step
+2021-12-06 09:47:43,253 ERROR draw_square Did not have the answer_step
+2021-12-09 09:43:23,068 ERROR puzzle_class Our puzzles are always squares. Valid numbers are 16 , 9 and 4.
+2021-12-09 09:45:22,995 ERROR puzzle_class Our puzzles are always squares. Valid numbers are 16 , 9 and 4.
+2021-12-09 09:46:32,745 ERROR puzzle_class Our puzzles are always squares. Valid numbers are 16 , 9 and 4.
+2021-12-09 09:48:11,143 ERROR puzzle_class Our puzzles are always squares. Valid numbers are 16 , 9 and 4.
+2021-12-09 09:48:46,886 ERROR puzzle_class Our puzzles are always squares. Valid numbers are 16 , 9 and 4.
+2021-12-09 09:49:11,230 ERROR puzzle_class Our puzzles are always squares. Valid numbers are 16 , 9 and 4.
+2021-12-09 09:50:41,099 ERROR puzzle_class Our puzzles are always squares. Valid numbers are 16 , 9 and 4.

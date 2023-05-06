@@ -1,0 +1,16 @@
+I have three file for the puzzle game: puzzle_game.py, draw_square.py and puzzle_class.py. 
+
+puzzle_game.py includes a main() function that let people run the game.
+
+draw_square.py includes all the function for the game: display splash screen and pop_up_window, load puz file and picture 
+and add leader board, button and move step. Finally, draw_square.py create a function to draw the 'black and blue' frame for the game.
+
+puzzle_class.py includes the class designed for the game.
+At first,  I use list to design a kind of data structure to help me to store and update the status of the puzzle.
+I design several methods, such as get_num, get_pos and update_pos , to help me to store the status of the puzzle.
+Secondly, I design left_right move , up_down move and button of the puzzle according to the coordinate .
+Finally , I update the data structure I designed after every move of the puzzle.
+
+The above is the way I design the project.
+
+
